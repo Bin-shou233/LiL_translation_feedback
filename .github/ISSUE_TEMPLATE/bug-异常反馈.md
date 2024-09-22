@@ -1,7 +1,7 @@
 ---
 name: Bug/异常反馈
 about: 影响游戏正常游玩的bug或异常
-title: "[bug]"
+title: "[Bug] "
 labels: ''
 assignees: ''
 
@@ -26,11 +26,12 @@ assignees: ''
 如有截图，粘贴到下方。
 
 **系统信息 [PC/Mac]**
- - 设备: [PC/安卓/Mac]
+ - 设备: [PC/Mac]
  - 显卡 [Amd/Nvidia/Intel的核显/独显]
- - 型号 [手机/Mac的型号]
- - 系统版本 [Win 7/8/8.1/10，osx 12/13/14/15/16]
+ - 型号 [PC/Mac的型号]
+ - 系统版本 [Win 7/8/8.1/10/11，macOS 12/13/14/15/16]
 
 **安卓信息**
+ - 手机型号
  - OS [MIUI/鸿蒙等]
  - 系统版本 [Android 9/10/11/12/13/14]
